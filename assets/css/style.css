@@ -1,0 +1,25 @@
+.a: hover {
+	color: red;
+	
+}
+
+.navbar{
+	color: red;
+}
+
+
+/*about-page*/
+
+#charity-paragraph{
+	text-align: justify;
+}
+
+
+
+/*servie page*/
+
+ /*service paragraph*/
+.services-paragraph{
+	font-size: 20px;
+	text-align: justify;
+}
